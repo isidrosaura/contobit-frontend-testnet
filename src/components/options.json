@@ -1,0 +1,962 @@
+[{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6a8"
+  },
+  "id": "Globales",
+  "label": "🌐 Global",
+  "children": [
+    {
+      "id": "PayPal",
+      "label": "💱 PayPal",
+      "isNew": true
+    },
+    {
+      "id": "Skrill",
+      "label": "💱 Skrill"
+    },
+    {
+      "id": "Neteller",
+      "label": "💱 Neteller"
+    },
+    {
+      "id": "Airtm",
+      "label": "💱 Airtm"
+    },
+    {
+      "id": "MoneyGram",
+      "label": "💱 MoneyGram"
+    },
+    {
+      "id": "WesternUnion",
+      "label": "💱 WesternUnion"
+    },
+    {
+      "id": "AmazonPay",
+      "label": "💱 Amazon pay"
+    },
+    {
+      "id": "GoogleWallet",
+      "label": "💱 GoogleWallet"
+    },
+    {
+      "id": "MercadoPago",
+      "label": "💱 MercadoPago"
+    },
+    {
+      "id": "Dwolla",
+      "label": "💱 Dwolla"
+    },
+    {
+      "id": "Payoneer",
+      "label": "💱 Payoneer"
+    },
+    {
+      "id": "MoneyBeam",
+      "label": "💱 MoneyBeam"
+    },
+    {
+      "id": "Uphold",
+      "label": "💱 Uphold"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6a9"
+  },
+  "id": "Fiat",
+  "label": "🪙 Fiat",
+  "children": [
+    {
+      "id": "USD",
+      "label": "$ USD-Dollar USA"
+    },
+    {
+      "id": "EUR",
+      "label": "€ EUR-Euro"
+    },
+    {
+      "id": "VES",
+      "label": "🪙 VES-Bolivar Soberano"
+    },
+    {
+      "id": "COP",
+      "label": "🪙 COP-Peso Colombiano"
+    },
+    {
+      "id": "CLP",
+      "label": "$ CLP-Peso Chileno"
+    },
+    {
+      "id": "BRL",
+      "label": "🪙 BRL-Real Brasileño"
+    },
+    {
+      "id": "MXN",
+      "label": "$ MXN-Peso Mexicano"
+    },
+    {
+      "id": "PEN",
+      "label": "S PEN-Sol Peruano"
+    },
+    {
+      "id": "RUB",
+      "label": "₽ RUB-Russian Ruble"
+    },
+    {
+      "id": "INR",
+      "label": "₹ INR-India Rupia"
+    },
+    {
+      "id": "TRY",
+      "label": "TL TRY-Turkish Lira"
+    },
+    {
+      "id": "IRR",
+      "label": "🪙 IRR-Iranian Rial"
+    },
+    {
+      "id": "CNY",
+      "label": "¥ CNY-Chinese Yuan"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6aa"
+  },
+  "id": "🪙 Cryptos",
+  "label": "🪙 Cryptos",
+  "children": [
+    {
+      "id": "ETH",
+      "label": "🪙 ETHEREUM"
+    },
+    {
+      "id": "XRP",
+      "label": "🪙 RIPPLE"
+    },
+    {
+      "id": "EOS",
+      "label": "🪙 EOS"
+    },
+    {
+      "id": "LTC",
+      "label": "🪙 LITECOIN"
+    },
+    {
+      "id": "BNB",
+      "label": "🪙 Binance Coin"
+    },
+    {
+      "id": "BCH",
+      "label": "🪙 Bitcoin Cash"
+    },
+    {
+      "id": "USDT",
+      "label": "🪙 Tether"
+    },
+    {
+      "id": "TRX",
+      "label": "🪙 TRON"
+    },
+    {
+      "id": "LINK",
+      "label": "🪙 Chainlink"
+    },
+    {
+      "id": "DOT",
+      "label": "🪙 Polkadot"
+    },
+    {
+      "id": "ADA",
+      "label": "🪙 Cardano"
+    },
+    {
+      "id": "BSV",
+      "label": "🪙 Bitcoin SV"
+    },
+    {
+      "id": "USDC",
+      "label": "🪙 USD Coin"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6ab"
+  },
+  "id": "Venezolanos",
+  "label": "🏦 🇻🇪 Venezuela",
+  "children": [
+    {
+      "id": "Venezuela",
+      "label": "🏦 Banco de Venezuela"
+    },
+    {
+      "id": "BNC",
+      "label": "🏦 Nacional de Crédito"
+    },
+    {
+      "id": "BFC",
+      "label": "🏦 Banco Fondo Común"
+    },
+    {
+      "id": "Banesco",
+      "label": "🏦 Banesco"
+    },
+    {
+      "id": "BBVAProvincial",
+      "label": "🏦 BBVA Provincial"
+    },
+    {
+      "id": "BOD",
+      "label": "🏦 Occidental de Descuento"
+    },
+    {
+      "id": "BVC",
+      "label": "🏦 Venezolano de Crédito"
+    },
+    {
+      "id": "Mercantil",
+      "label": "🏦 Banco Mercantil"
+    },
+    {
+      "id": "Bicentenario",
+      "label": "🏦 Bicentenario"
+    },
+    {
+      "id": "bt",
+      "label": "🏦 Del Tesoro"
+    },
+    {
+      "id": "Bancaribe",
+      "label": "🏦 Bancaribe"
+    },
+    {
+      "id": "BAV",
+      "label": "🏦 Agrícola de Vzla."
+    },
+    {
+      "id": "PagoMovil",
+      "label": "🏦 PagoMovil"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6ac"
+  },
+  "id": "Españoles",
+  "label": "🏦 🇪🇸 España",
+  "children": [
+    {
+      "id": "Santander",
+      "label": "🏦 Banco Santander"
+    },
+    {
+      "id": "BBVA",
+      "label": "🏦 BBVA"
+    },
+    {
+      "id": "CaixaBank",
+      "label": "🏦 CaixaBank"
+    },
+    {
+      "id": "Bankia",
+      "label": "🏦 Bankia"
+    },
+    {
+      "id": "Bankinter",
+      "label": "🏦 Bankinter"
+    },
+    {
+      "id": "Unicaja",
+      "label": "🏦 Unicaja"
+    },
+    {
+      "id": "Ibercaja",
+      "label": "🏦 Ibercaja"
+    },
+    {
+      "id": "Kutxabank",
+      "label": "🏦 Kutxabank"
+    },
+    {
+      "id": "Bizum",
+      "label": "🏦 Bizum"
+    },
+    {
+      "id": "Twyp",
+      "label": "🏦 Twyp"
+    },
+    {
+      "id": "Verse",
+      "label": "🏦 Verse"
+    },
+    {
+      "id": "N26",
+      "label": "🏦 N26"
+    },
+    {
+      "id": "Openbank",
+      "label": "🏦 Openbank"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6ad"
+  },
+  "id": "Colombianos",
+  "label": "🏦 🇨🇴 Colombia",
+  "children": [
+    {
+      "id": "🏦 Banco de Bogotá",
+      "label": "🏦 Banco de Bogotá"
+    },
+    {
+      "id": "🏦 Bancolombia",
+      "label": "🏦 Bancolombia"
+    },
+    {
+      "id": "🏦 BBVA Colombia",
+      "label": "🏦 BBVA Colombia"
+    },
+    {
+      "id": "🏦 Colpatria(Scotiabank)",
+      "label": "🏦 Colpatria(Scotiabank)"
+    },
+    {
+      "id": "🏦 Banco Davivienda",
+      "label": "🏦 Banco Davivienda"
+    },
+    {
+      "id": "🏦 Citibank",
+      "label": "🏦 Citibank"
+    },
+    {
+      "id": "🏦 Banco de Occidente",
+      "label": "🏦 Banco de Occidente"
+    },
+    {
+      "id": "🏦 Corficolombiana",
+      "label": "🏦 Corficolombiana"
+    },
+    {
+      "id": "Banco Agrario",
+      "label": "🏦 Banco Agrario"
+    },
+    {
+      "id": "Banco Popular",
+      "label": "🏦 Banco Popular"
+    },
+    {
+      "id": "Banco Caja Social",
+      "label": "🏦 Banco Caja Social"
+    },
+    {
+      "id": "Bancamia",
+      "label": "🏦 Bancamia"
+    },
+    {
+      "id": "Banco Av Villas",
+      "label": "🏦 Banco Av Villas"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6ae"
+  },
+  "id": "Chilenos",
+  "label": "🏦 🇨🇱 Chile",
+  "children": [
+    {
+      "id": "santanderchile",
+      "label": "🏦 Santander Chile"
+    },
+    {
+      "id": "estadodechile",
+      "label": "🏦 BancoEstado"
+    },
+    {
+      "id": "bancodechile",
+      "label": "🏦 Banco de Chile"
+    },
+    {
+      "id": "creditoeinversiones",
+      "label": "🏦 Banco de Crédito e Inversiones"
+    },
+    {
+      "id": "bbvachile",
+      "label": "🏦 BBVA Chile"
+    },
+    {
+      "id": "corpbanca",
+      "label": "🏦 CorpBanca"
+    },
+    {
+      "id": "scotiasuda",
+      "label": "🏦 Scotiabank Sud Americano"
+    },
+    {
+      "id": "security",
+      "label": "🏦 Banco Security"
+    },
+    {
+      "id": "Falabella",
+      "label": "🏦 Falabella"
+    },
+    {
+      "id": "Itau",
+      "label": "🏦 Itaú"
+    },
+    {
+      "id": "Bice",
+      "label": "🏦 Bice"
+    },
+    {
+      "id": "Consorcio",
+      "label": "🏦 Consorcio"
+    },
+    {
+      "id": "Banco Edwards",
+      "label": "🏦 Banco Edwards"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6af"
+  },
+  "id": "Brasileños",
+  "label": "🏦 🇧🇷 Brasil",
+  "children": [
+    {
+      "id": "itau",
+      "label": "🏦 Banco Itaú"
+    },
+    {
+      "id": "dobrasil",
+      "label": "🏦 Banco do Brasil"
+    },
+    {
+      "id": "bradesco",
+      "label": "🏦 Banco Bradesco"
+    },
+    {
+      "id": "santanderbrasil",
+      "label": "🏦 Banco Santander Brasil"
+    },
+    {
+      "id": "hsbcbrasil",
+      "label": "🏦 HSBC Brasil"
+    },
+    {
+      "id": "vorantim",
+      "label": "🏦 Banco Votorantim"
+    },
+    {
+      "id": "bmc",
+      "label": "🏦 Finasa BMC"
+    },
+    {
+      "id": "safra",
+      "label": "🏦 Banco Safra"
+    },
+    {
+      "id": "caixa",
+      "label": "🏦 Caixa econômica federal"
+    },
+    {
+      "id": "Nossa Caixa",
+      "label": "🏦 Nossa Caixa"
+    },
+    {
+      "id": "Citibank Brasil",
+      "label": "🏦 Citibank Brasil"
+    },
+    {
+      "id": "BNP Paribas",
+      "label": "🏦 BNP Paribas"
+    },
+    {
+      "id": "Banco do Nordeste",
+      "label": "🏦 Banco do Nordeste"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6b0"
+  },
+  "id": "Méxicanos",
+  "label": "🏦 🇲🇽 México",
+  "children": [
+    {
+      "id": "bbvabancomer",
+      "label": "🏦 BBVA Bancomer"
+    },
+    {
+      "id": "banamex",
+      "label": "🏦 CitiBanamex"
+    },
+    {
+      "id": "serfin",
+      "label": "🏦 Santander Serfín"
+    },
+    {
+      "id": "banorte",
+      "label": "🏦 Banorte"
+    },
+    {
+      "id": "hsbcmexico",
+      "label": "🏦 HSBC Mexico"
+    },
+    {
+      "id": "azteca",
+      "label": "🏦 Banco Azteca"
+    },
+    {
+      "id": "ingmexico",
+      "label": "🏦 I.N.G Mexico"
+    },
+    {
+      "id": "scotiabank",
+      "label": "🏦 Scotiabank"
+    },
+    {
+      "id": "Inbursa",
+      "label": "🏦 Inbursa"
+    },
+    {
+      "id": "Del Bajio",
+      "label": "🏦 Del Bajio"
+    },
+    {
+      "id": "J.P.Morgan",
+      "label": "🏦 J.P.Morgan"
+    },
+    {
+      "id": "Banregio",
+      "label": "🏦 Banregio"
+    },
+    {
+      "id": "BankofAmerica",
+      "label": "🏦 Bank of America"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6b1"
+  },
+  "id": "Argentinos",
+  "label": "🏦 🇦🇷 Argentina",
+  "children": [
+    {
+      "id": "🏦 Nación Argentina",
+      "label": "🏦 Nación Argentina"
+    },
+    {
+      "id": "🏦 Provincia de Buenos Aires",
+      "label": "🏦 Provincia de Buenos Aires"
+    },
+    {
+      "id": "🏦 Santander Río",
+      "label": "🏦 Santander Río"
+    },
+    {
+      "id": "🏦 Galicia y Buenos Aires",
+      "label": "🏦 Galicia y Buenos Aires"
+    },
+    {
+      "id": "🏦 BBVA Argentina",
+      "label": "🏦 BBVA Argentina"
+    },
+    {
+      "id": "🏦 Banco Macro",
+      "label": "🏦 Banco Macro"
+    },
+    {
+      "id": "🏦 HSBC Bank Argentina",
+      "label": "🏦 HSBC Bank Argentina"
+    },
+    {
+      "id": "🏦 Ciudad de Buenos Aires",
+      "label": "🏦 Ciudad de Buenos Aires"
+    },
+    {
+      "id": "TodoPago",
+      "label": "🏦 TodoPago"
+    },
+    {
+      "id": "ValePEI",
+      "label": "🏦 ValePEI"
+    },
+    {
+      "id": "Ualá",
+      "label": "🏦 Ualá"
+    },
+    {
+      "id": "Mercado Pago Argentina",
+      "label": "🏦 Mercado Pago Argentina"
+    },
+    {
+      "id": "PIM",
+      "label": "🏦 PIM"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ef621fd1807792ce071f6b2"
+  },
+  "id": "Peruanos",
+  "label": "🏦 🇵🇪 Perú",
+  "children": [
+    {
+      "id": "creditodelperu",
+      "label": "🏦 Banco de Crédito del Perú"
+    },
+    {
+      "id": "bbvabc",
+      "label": "🏦 BBVA Banco Continental"
+    },
+    {
+      "id": "scotiaperu",
+      "label": "🏦 Scotiabank Perú"
+    },
+    {
+      "id": "bancodecomercio",
+      "label": "🏦 Banco de Comercio."
+    },
+    {
+      "id": "banbif",
+      "label": "🏦 Banco Interamericano de Finanzas (BanBif)"
+    },
+    {
+      "id": "pichincha",
+      "label": "🏦 Banco Pichincha"
+    },
+    {
+      "id": "bbvacontinental",
+      "label": "🏦 BBVA Continental"
+    },
+    {
+      "id": "citiperu",
+      "label": "🏦 Citibank Perú"
+    },
+    {
+      "id": "Interbank",
+      "label": "🏦 Interbank"
+    },
+    {
+      "id": "Banco de la Nacion",
+      "label": "🏦 Banco de la Nacion "
+    },
+    {
+      "id": "Mibanco",
+      "label": "🏦 Mibanco"
+    },
+    {
+      "id": "Scotiabank Perú",
+      "label": "🏦 Scotiabank Perú"
+    },
+    {
+      "id": "PLIN",
+      "label": "🏦 PLIN"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fac749f46cb7a131e56cfd8"
+  },
+  "id": "Russians",
+  "label": "🏦 🇷🇺 Russia ",
+  "children": [
+    {
+      "id": "Sberbank",
+      "label": "🏦 Sberbank"
+    },
+    {
+      "id": "VTB",
+      "label": "🏦 VTB"
+    },
+    {
+      "id": "Gazprombank",
+      "label": "🏦 Gazprombank"
+    },
+    {
+      "id": "Alfa Bank",
+      "label": "🏦 Alfa Bank"
+    },
+    {
+      "id": "Unicredit Bank",
+      "label": "🏦 Unicredit Bank"
+    },
+    {
+      "id": "Raiffeisen Bank",
+      "label": "🏦 Raiffeisen Bank"
+    },
+    {
+      "id": "Rosbank",
+      "label": "🏦 Rosbank"
+    },
+    {
+      "id": "Citibank",
+      "label": "🏦 Citibank"
+    },
+    {
+      "id": "ING Bank (Eurasia)",
+      "label": "🏦 ING Bank (Eurasia)"
+    },
+    {
+      "id": "Raifeisen Bank",
+      "label": "🏦 Raifeisen Bank"
+    },
+    {
+      "id": "Nordea",
+      "label": "🏦 Nordea Bank"
+    },
+    {
+      "id": "Credit Bank of Moscow",
+      "label": "🏦 Credit Bank of Moscow"
+    },
+    {
+      "id": "Webmoney",
+      "label": "🏦 Webmoney"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fac8cb446cb7a131e56cfd9"
+  },
+  "id": "Indians",
+  "label": "🏦 🇮🇳 India ",
+  "children": [
+    {
+      "id": "SBI",
+      "label": "🏦 State Bank of India"
+    },
+    {
+      "id": "HDFC Bank",
+      "label": "🏦 HDFC Bank"
+    },
+    {
+      "id": "ICICI",
+      "label": "🏦 ICICI"
+    },
+    {
+      "id": "PNB",
+      "label": "🏦 Punjab National Bank"
+    },
+    {
+      "id": "Axis Bank",
+      "label": "🏦 Axis Bank"
+    },
+    {
+      "id": "BOB",
+      "label": "🏦 Bank of Baroda"
+    },
+    {
+      "id": "Canara Bank",
+      "label": "🏦 Canara Bank"
+    },
+    {
+      "id": "BOI",
+      "label": "🏦 Bank of India"
+    },
+    {
+      "id": "Kotak Mahindra",
+      "label": "🏦 Kotak Mahindra"
+    },
+    {
+      "id": "IndusInd Bank",
+      "label": "🏦 IndusInd Bank"
+    },
+    {
+      "id": "Google Pay",
+      "label": "🏦 Google Pay"
+    },
+    {
+      "id": "PhonePe",
+      "label": "🏦 PhonePe"
+    },
+    {
+      "id": "Paytm",
+      "label": "🏦 Paytm"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fac958246cb7a131e56cfda"
+  },
+  "id": "Turkeys",
+  "label": "🏦 🇹🇷 Turkey ",
+  "children": [
+    {
+      "id": "Ziraat Bank",
+      "label": "🏦 Ziraat Bank"
+    },
+    {
+      "id": "Isbank",
+      "label": "🏦 Isbank"
+    },
+    {
+      "id": "Garanti Bank",
+      "label": "🏦 Garanti Bank"
+    },
+    {
+      "id": "AKBank",
+      "label": "🏦 AKBank"
+    },
+    {
+      "id": "Yapi Kredi Bank",
+      "label": "🏦 Yapi Kredi Bank"
+    },
+    {
+      "id": "Denizbank",
+      "label": "🏦 Denizbank"
+    },
+    {
+      "id": "Finansbank",
+      "label": "🏦 Finansbank"
+    },
+    {
+      "id": "Vakifbank",
+      "label": "🏦 Vakifbank"
+    },
+    {
+      "id": "Halkbank",
+      "label": "🏦 Halkbank"
+    },
+    {
+      "id": "Türk Ekonomi Bankası",
+      "label": "🏦 Türk Ekonomi Bankası"
+    },
+    {
+      "id": "iPara",
+      "label": "🏦 iPara"
+    },
+    {
+      "id": "Iyzico",
+      "label": "🏦 Iyzico"
+    },
+    {
+      "id": "Troy",
+      "label": "🏦 Troy"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fac9a9046cb7a131e56cfdb"
+  },
+  "id": "Iranians",
+  "label": "🏦 🇮🇷 Iran",
+  "children": [
+    {
+      "id": "EN Bank",
+      "label": "🏦 EN Bank"
+    },
+    {
+      "id": "Bank Mellat",
+      "label": "🏦 Bank Mellat"
+    },
+    {
+      "id": "Bank Maskan",
+      "label": "🏦 Bank Maskan"
+    },
+    {
+      "id": "Bank Pasagard",
+      "label": "🏦 Bank Pasagard"
+    },
+    {
+      "id": "Export Development Bank of Iran",
+      "label": "🏦 Export Development Bank of Iran"
+    },
+    {
+      "id": "Parsian Bank",
+      "label": "🏦 Parsian Bank"
+    },
+    {
+      "id": "Bank of Industry and Mine",
+      "label": "🏦 Bank of Industry and Mine"
+    },
+    {
+      "id": "Bank Tejarat",
+      "label": "🏦 Bank Tejarat"
+    },
+    {
+      "id": "Bank Sepah",
+      "label": "🏦 Bank Sepah"
+    },
+    {
+      "id": "Bank Saderat Iran",
+      "label": "🏦 Bank Saderat Iran"
+    },
+    {
+      "id": "Bank Melli Iran",
+      "label": "🏦 YekpayBank Melli Iran"
+    },
+    {
+      "id": "Bank Keshavarzi Iran",
+      "label": "🏦 Bank Keshavarzi Iran"
+    },
+    {
+      "id": "Yekpay",
+      "label": "🏦 Yekpay"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5faca31146cb7a131e56cfdc"
+  },
+  "id": "Chinese",
+  "label": "🏦 🇨🇳 China",
+  "children": [
+    {
+      "id": "Agricultural Bank of China",
+      "label": "🏦 Agricultural Bank of China"
+    },
+    {
+      "id": "Bank of China",
+      "label": "🏦 Bank of China"
+    },
+    {
+      "id": "Bank of Communications",
+      "label": "🏦 Bank of Communications"
+    },
+    {
+      "id": "China Construction Bank",
+      "label": "🏦 China Construction Bank"
+    },
+    {
+      "id": "Industrial and Commercial Bank of China",
+      "label": "🏦 Industrial and Commercial Bank of China"
+    },
+    {
+      "id": "Postal Savings Bank of China",
+      "label": "🏦 Postal Savings Bank of China"
+    },
+    {
+      "id": "Industrial Bank Co. Ltd",
+      "label": "🏦 Industrial Bank Co. Ltd"
+    },
+    {
+      "id": "China Merchants Bank Co Ltd.",
+      "label": "🏦 China Merchants Bank Co Ltd."
+    },
+    {
+      "id": "China CITIC Bank Corp",
+      "label": "🏦 China CITIC Bank Corp"
+    },
+    {
+      "id": "China Minsheng Banking Corp",
+      "label": "🏦 China Minsheng Banking Corp"
+    },
+    {
+      "id": "Alipay",
+      "label": "🏦 Alipay"
+    },
+    {
+      "id": "WeChat Payn",
+      "label": "🏦 WeChat Pay"
+    },
+    {
+      "id": "Union Pay",
+      "label": "🏦 Union Pay"
+    }
+  ]
+}]
